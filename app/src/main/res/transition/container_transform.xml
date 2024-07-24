@@ -1,0 +1,4 @@
+<!-- res/transition/container_transform.xml -->
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.material.transition.MaterialContainerTransform android:duration="300" />
+</transitionSet>
