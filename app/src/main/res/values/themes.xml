@@ -1,0 +1,44 @@
+<resources>
+    <!-- Base application theme. -->
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+        <!-- Customize your light theme here -->
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:autofilledHighlight">@android:color/transparent</item>
+        <item name="colorAccent">@color/black</item>
+
+
+    </style>
+
+    <style name="ColoredHandleThemeForWholeApp">
+        <item name="colorAccent">@color/black</item>
+    </style>
+
+    <style name="Theme.TodayBuddy" parent="Base.Theme.TodayBuddy" />
+
+    <!-- Style for the app bar overlay (used in conjunction with the CollapsingToolbarLayout) -->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:textColorPrimary">@color/white</item>
+        <!-- Customize other attributes as needed -->
+    </style>
+
+
+    <style name="NoBoundariesEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@null</item>
+        <item name="android:paddingStart">0dp</item>
+        <item name="android:paddingEnd">0dp</item>
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.AppTheme" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+</resources>
