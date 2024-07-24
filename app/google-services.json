@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937798520384",
+    "project_id": "elicit-49a9e",
+    "storage_bucket": "elicit-49a9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937798520384:android:b125b4dedcbf45492bd9a5",
+        "android_client_info": {
+          "package_name": "com.example.todaybuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoksc7PdnWDziLd7xIsXvjKmT6f_HLzi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
